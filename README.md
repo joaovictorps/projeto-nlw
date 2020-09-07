@@ -1,5 +1,7 @@
-# projeto-nlw
+# Projeto Proffy (NLW)
 
-Clone o projeto e digite npm dev run no terminal.
+Projeto desenvolvido junto a Rocketseat durante a NLW.
 
-entre no seu localhost 5500
+Para rodar o projeto, digite npm dev run no terminal.
+
+Porta usada: 5500
